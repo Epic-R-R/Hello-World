@@ -14,9 +14,11 @@ Also there is list of useful **Courses** and **Books** about the programming lan
 ## Contributing
 If you want to contribute to this project, read [Contributing Guide](CONTRIBUTING.md).
 
-Total Languages in This Repository: 87.
+Total Languages in This Repository: 94.
 
+Special thanks to [Parsa](https://github.com/parsampsh) & [Amirhossein](https://github.com/amireshoon)
 
+[A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [V](#V) [W](#W) [Y](#Y) [Z](#Z) 
 ### A
 
 ---
@@ -26,6 +28,7 @@ Total Languages in This Repository: 87.
 - [AppleScript](/AppleScript) - Added By <img src="https://github.com/F4R4N.png?size=25" width="25" height="25" /> [Faran Taghavi](https://github.com/F4R4N)
 - [Arduino](/Arduino) - Added By <img src="https://github.com/BlackIQ.png?size=25" width="25" height="25" /> [Amirhossein Mohammadi](https://github.com/BlackIQ)
 - [Assembly](/Assembly) - Added By <img src="https://github.com/tahacodes.png?size=25" width="25" height="25" /> [Taha Farahani](https://github.com/tahacodes)
+- [Awk](/Awk) - Added By <img src="https://github.com/Epic-R-R.png?size=25" width="25" height="25" /> [Sullivan(Epic-R-R)](https://github.com/Epic-R-R)
 
 
 ### B
@@ -63,7 +66,6 @@ Total Languages in This Repository: 87.
 
 - [D](/D) - Added By <img src="https://github.com/sina-devel.png?size=25" width="25" height="25" /> [Sina](https://github.com/sina-devel)
 - [Dart](/Dart) - Added By <img src="https://github.com/xenups.png?size=25" width="25" height="25" /> [Amir Lesani](https://github.com/xenups)
-- [Django](/Django) - Added By <img src="https://github.com/shahriaarrr.png?size=25" width="25" height="25" /> [shahriar](https://github.com/shahriaarrr)
 - [Docker](/Docker) - Added By <img src="https://github.com/Ja7adR.png?size=25" width="25" height="25" /> [Javad Rajabzade](https://github.com/Ja7adR)
 
 
@@ -81,7 +83,6 @@ Total Languages in This Repository: 87.
 
 ---
 
-- [Flask-python-framework](/Flask-python-framework) - Added By <img src="https://github.com/shahriaarrr.png?size=25" width="25" height="25" /> [shahriar](https://github.com/shahriaarrr)
 - [Flutter](/Flutter) - Added By <img src="https://github.com/shahriaarrr.png?size=25" width="25" height="25" /> [shahriar](https://github.com/shahriaarrr)
 - [Fortran](/Fortran) - Added By <img src="https://github.com/01shadowalker01.png?size=25" width="25" height="25" /> [Saeed Bayat](https://github.com/01shadowalker01)
 - [Fsharp](/Fsharp) - Added By <img src="https://github.com/shahriaarrr.png?size=25" width="25" height="25" /> [shahriar](https://github.com/shahriaarrr)
@@ -122,6 +123,7 @@ Total Languages in This Repository: 87.
 ---
 
 - [Kotlin](/Kotlin) - Added By <img src="https://github.com/BlackIQ.png?size=25" width="25" height="25" /> [Amirhossein Mohammadi](https://github.com/BlackIQ)
+- [Ktor](/Ktor) - Added By <img src="https://github.com/alirezabashi98.png?size=25" width="25" height="25" /> [AlirezabBashi98](https://github.com/alirezabashi98)
 
 
 ### L
@@ -140,6 +142,8 @@ Total Languages in This Repository: 87.
 - [MIPS](/MIPS) - Added By <img src="https://github.com/mohammadkad.png?size=25" width="25" height="25" /> [Mohammad Kadkhodaei](https://github.com/mohammadkad)
 - [Makefile](/Makefile) - Added By <img src="https://github.com/amireshoon.png?size=25" width="25" height="25" /> [Amirhossein Meydani](https://github.com/amireshoon)
 - [Matlab](/Matlab) - Added By <img src="https://github.com/MohammadMirsafaei.png?size=25" width="25" height="25" /> [Mohammad Mirsafaei](https://github.com/MohammadMirsafaei)
+- [Mql4](/Mql4) - Added By <img src="https://github.com/mahdi-abbaspour-shahmarasi.png?size=25" width="25" height="25" /> [Mahdi Abbaspour Shahmarasi](https://github.com/mahdi-abbaspour-shahmarasi)
+- [Mql5](/Mql5) - Added By <img src="https://github.com/mahdi-abbaspour-shahmarasi.png?size=25" width="25" height="25" /> [Mahdi Abbaspour Shahmarasi](https://github.com/mahdi-abbaspour-shahmarasi)
 
 
 ### N
@@ -170,8 +174,17 @@ Total Languages in This Repository: 87.
 - [Php](/Php) - Added By <img src="https://github.com/ebad84.png?size=25" width="25" height="25" /> [Mohammad Reza Ebadollah](https://github.com/ebad84)
 - [Piet](/Piet) - Added By <img src="https://github.com/ali0gamer1.png?size=25" width="25" height="25" /> [Ali Arj](https://github.com/ali0gamer1)
 - [Plus](/Plus) - Added By <img src="https://github.com/amireshoon.png?size=25" width="25" height="25" /> [Amirhossein Meydani](https://github.com/amireshoon)
+- [Pony](/Pony) - Added By <img src="https://github.com/komeilparseh.png?size=25" width="25" height="25" /> [Komeil Parseh](https://github.com/komeilparseh)
 - [PowerShell](/PowerShell) - Added By <img src="https://github.com/F4R4N.png?size=25" width="25" height="25" /> [Faran Taghavi](https://github.com/F4R4N)
+- [Prolog](/Prolog) - Added By <img src="https://github.com/HSNHK.png?size=25" width="25" height="25" /> [Hassan Mohammadi](https://github.com/HSNHK)
 - [Python](/Python) - Added By <img src="https://github.com/rezabojnordi.png?size=25" width="25" height="25" /> [Reza Bojnordi](https://github.com/rezabojnordi)
+
+
+### Q
+
+---
+
+- [QBasic](/QBasic) - Added By <img src="https://github.com/Annahita2004.png?size=25" width="25" height="25" /> [Annahita Mirhosseini](https://github.com/Annahita2004)
 
 
 ### R
@@ -190,11 +203,11 @@ Total Languages in This Repository: 87.
 ---
 
 - [SQL](/SQL) - Added By <img src="https://github.com/01shadowalker01.png?size=25" width="25" height="25" /> [Saeed Bayat](https://github.com/01shadowalker01)
-- [Scala](/Scala) - Added By <img src="https://github.com/elyashadizadeh.png?size=25" width="25" height="25" /> [Elyas 'Eloy' Hadizadeh Tasbiti](https://github.com/elyashadizadeh)
+- [Scala](/Scala) - Added By <img src="https://github.com/elyashadizadeh.png?size=25" width="25" height="25" /> [Elyas 'Eloy' Hadizadeh Tasbiti](https://github.com/elyashadizadeh),  <img src="https://github.com/meysampg.png?size=25" width="25" height="25" /> [Meysam P. Ganji](https://github.com/meysampg)
 - [Scheme](/Scheme) - Added By <img src="https://github.com/sami2020pro.png?size=25" width="25" height="25" /> [Sami Ghasemi](https://github.com/sami2020pro)
 - [Scratch](/Scratch) - Added By <img src="https://github.com/shahriaarrr.png?size=25" width="25" height="25" /> [shahriar](https://github.com/shahriaarrr)
 - [Scss](/Scss) - Added By <img src="https://github.com/AzerothA.png?size=25" width="25" height="25" /> [AzerothA](https://github.com/AzerothA)
-- [Solidity](/Solidity)
+- [Solidity](/Solidity) - Added By <img src="https://github.com/arman324.png?size=25" width="25" height="25" /> [Arman](https://github.com/arman324)
 - [Swift](/Swift) - Added By <img src="https://github.com/xenups.png?size=25" width="25" height="25" /> [Amir Lesani](https://github.com/xenups)
 
 
@@ -203,7 +216,7 @@ Total Languages in This Repository: 87.
 ---
 
 - [Tcl](/Tcl) - Added By <img src="https://github.com/Ja7adR.png?size=25" width="25" height="25" /> [Javad Rajabzade](https://github.com/Ja7adR)
-- [Typescript](/Typescript) - Added By <img src="https://github.com/BlackIQ.png?size=25" width="25" height="25" /> [Amirhossein Mohammadi](https://github.com/BlackIQ)
+- [Typescript](/Typescript) - Added By <img src="https://github.com/MortezaHeydari97.png?size=25" width="25" height="25" /> [Morteza Heydari](https://github.com/MortezaHeydari97),  <img src="https://github.com/BlackIQ.png?size=25" width="25" height="25" /> [Amirhossein Mohammadi](https://github.com/BlackIQ)
 
 
 ### V
@@ -211,6 +224,7 @@ Total Languages in This Repository: 87.
 ---
 
 - [V](/V) - Added By <img src="https://github.com/jadijadi.png?size=25" width="25" height="25" /> [Jadi Mirmirani](https://github.com/jadijadi)
+- [VB](/VB) - Added By <img src="https://github.com/khod-naderi.png?size=25" width="25" height="25" /> [Ali Naderi](https://github.com/khod-naderi)
 - [Vala](/Vala) - Added By <img src="https://github.com/amireshoon.png?size=25" width="25" height="25" /> [Amirhossein Meydani](https://github.com/amireshoon)
 - [Vim-Script](/Vim-Script) - Added By <img src="https://github.com/amireshoon.png?size=25" width="25" height="25" /> [Amirhossein Meydani](https://github.com/amireshoon)
 
@@ -226,6 +240,7 @@ Total Languages in This Repository: 87.
 
 ---
 
+- [YO](/YO)
 - [Yacas](/Yacas) - Added By <img src="https://github.com/AmirJey.png?size=25" width="25" height="25" /> [AmirJEY](https://github.com/AmirJey)
 
 
@@ -234,3 +249,7 @@ Total Languages in This Repository: 87.
 ---
 
 - [Zig-lang](/Zig-lang) - Added By <img src="https://github.com/ali0gamer1.png?size=25" width="25" height="25" /> [Ali Arj](https://github.com/ali0gamer1)
+
+## Thanks to everyone who helped this repo❤ :) 
+
+<a href="https://github.com/BlackIQ/Hello-World/graphs/contributors"><img src="https://contrib.rocks/image?repo=BlackIQ/Hello-World" /></a>

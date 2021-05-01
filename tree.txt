@@ -39,6 +39,14 @@
 │   │   └── x86_assembly.asm
 │   ├── info.json
 │   └── resources.md
+├── Awk
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   └── helloworld.awk
+│   ├── info.json
+│   └── resources.md
 ├── B
 │   ├── README.md
 │   ├── books.md
@@ -112,6 +120,7 @@
 │   ├── info.json
 │   └── resources.md
 ├── CONTRIBUTING.md
+├── CONTRIBUTORS_LIST.md
 ├── Clojure
 │   ├── README.md
 │   ├── books.md
@@ -193,34 +202,13 @@
 │   │   └── Dart.dart
 │   ├── info.json
 │   └── resources.md
-├── Django
-│   ├── README.md
-│   ├── books.md
-│   ├── courses.md
-│   ├── examples
-│   │   └── helloworld
-│   │       ├── helloworld
-│   │       │   ├── __init__.py
-│   │       │   ├── asgi.py
-│   │       │   ├── settings.py
-│   │       │   ├── urls.py
-│   │       │   └── wsgi.py
-│   │       ├── home
-│   │       │   ├── __init__.py
-│   │       │   ├── apps.py
-│   │       │   ├── migrations
-│   │       │   │   └── __init__.py
-│   │       │   ├── urls.py
-│   │       │   └── views.py
-│   │       └── manage.py
-│   ├── info.json
-│   └── resources.md
 ├── Docker
 │   ├── README.md
 │   ├── books.md
 │   ├── courses.md
 │   ├── examples
-│   │   └── Dockerfile
+│   │   ├── Dockerfile
+│   │   └── official.sh
 │   ├── info.json
 │   └── resources.md
 ├── Eiffel
@@ -255,14 +243,6 @@
 │   │   └── Erlang.erl
 │   ├── info.json
 │   └── resources.md
-├── Flask-python-framework
-│   ├── README.md
-│   ├── books.md
-│   ├── courses.md
-│   ├── examples
-│   │   └── app.py
-│   ├── info.json
-│   └── resources.md
 ├── Flutter
 │   ├── README.md
 │   ├── books.md
@@ -293,7 +273,8 @@
 │   ├── courses.md
 │   ├── examples
 │   │   ├── GoLang.go
-│   │   └── fib.go
+│   │   ├── fib.go
+│   │   └── file_in_Go.go
 │   ├── info.json
 │   └── resources.md
 ├── Go-Gin
@@ -394,6 +375,14 @@
 │   │   └── Kotlin.kt
 │   ├── info.json
 │   └── resources.md
+├── Ktor
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   └── Ktor.kt
+│   ├── info.json
+│   └── resources.md
 ├── LICENSE
 ├── LOLCODE
 │   ├── README.md
@@ -444,6 +433,22 @@
 │   ├── courses.md
 │   ├── examples
 │   │   └── HelloWorld.m
+│   ├── info.json
+│   └── resources.md
+├── Mql4
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   └── hello.mq4
+│   ├── info.json
+│   └── resources.md
+├── Mql5
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   └── hello.mq5
 │   ├── info.json
 │   └── resources.md
 ├── Neko-VM
@@ -529,6 +534,7 @@
 │   ├── books.md
 │   ├── courses.md
 │   ├── examples
+│   │   ├── loop.php
 │   │   └── php.php
 │   ├── info.json
 │   └── resources.md
@@ -548,6 +554,14 @@
 │   │   └── Plus.plus
 │   ├── info.json
 │   └── resources.md
+├── Pony
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   └── hello.pony
+│   ├── info.json
+│   └── resources.md
 ├── PowerShell
 │   ├── README.md
 │   ├── books.md
@@ -556,12 +570,25 @@
 │   │   └── powershell.ps1
 │   ├── info.json
 │   └── resources.md
+├── Prolog
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   └── hello.pl
+│   ├── info.json
+│   └── resources.md
 ├── Python
 │   ├── README.md
 │   ├── books.md
 │   ├── courses.md
 │   ├── examples
+│   │   ├── file.py
+│   │   ├── http_requests.py
+│   │   ├── os.py
 │   │   ├── python.py
+│   │   ├── tkinter.py
+│   │   ├── try_except.py
 │   │   └── variable.py
 │   ├── img
 │   │   ├── 1.png
@@ -571,6 +598,14 @@
 │   │   ├── 5.png
 │   │   ├── 6.png
 │   │   └── 7.png
+│   ├── info.json
+│   └── resources.md
+├── QBasic
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   ├── hello.bas
 │   ├── info.json
 │   └── resources.md
 ├── R
@@ -660,6 +695,7 @@
 │   ├── courses.md
 │   ├── examples
 │   │   └── Solidity.sol
+│   ├── info.json
 │   └── resources.md
 ├── Swift
 │   ├── README.md
@@ -683,6 +719,8 @@
 │   ├── books.md
 │   ├── courses.md
 │   ├── examples
+│   │   ├── dataTypes.ts
+│   │   ├── interfaces.ts
 │   │   └── typescript.ts
 │   ├── info.json
 │   └── resources.md
@@ -692,6 +730,14 @@
 │   ├── courses.md
 │   ├── examples
 │   │   └── hello.v
+│   ├── info.json
+│   └── resources.md
+├── VB
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   │   └── main.vb
 │   ├── info.json
 │   └── resources.md
 ├── Vala
@@ -719,6 +765,18 @@
 │   │   └── helloworld.ws
 │   ├── info.json
 │   └── resources.md
+├── YO
+│   ├── README.md
+│   ├── books.md
+│   ├── courses.md
+│   ├── examples
+│   ├── labra.yoda
+│   ├── resources.md
+│   ├── src
+│   │   └── main.yo
+│   └── target
+│       └── release
+│           └── YO.exe
 ├── Yacas
 │   ├── README.md
 │   ├── books.md
@@ -738,4 +796,4 @@
 ├── auto-gen.py
 └── tree.txt
 
-179 directories, 559 files
+192 directories, 604 files

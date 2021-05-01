@@ -8,17 +8,18 @@ If you want to contribute to this project:
 - Send a pull request from your branch to this project
 
 Some notes:
-- if you are adding new example, surely test that code before commiting
+- If you are adding new example, surely test that code before commiting
 - Do not change `README.md` directly, new languages will be added to the list automatically
+- Note that it's better to include the language of the book or resources or course as well. See [Golang resources](/Go/resources.md) for example.
 
 ### Contribution ways
 
-- adding new languages
-- adding new examples for current languages
-- help to complete README.md file in language folder (lang-name/README.md)
-- add link of useful books to books list for languages (lang-name/books.md)
-- add link of useful courses to courses list for languages (lang-name/courses.md)
-- add link of useful resources to resources list for languages (lang-name/resources.md)
+- Adding new languages
+- Adding new examples for current languages
+- Help to complete README.md file in language folder (lang-name/README.md)
+- Add link of useful books to books list for languages (lang-name/books.md)
+- Add link of useful courses to courses list for languages (lang-name/courses.md)
+- Add link of useful resources to resources list for languages (lang-name/resources.md)
 
 ### Adding new language
 If you want to add new language to this repo, You should create a directory named name of that language capitalized. for example `Python` or `Php`.
@@ -34,10 +35,27 @@ write name and a link about who added that language to the list in the `README.m
 
 ```json
 {
-	"creator": {
+	"creators": {
 		"title": "Your name",
 		"link": "https://github.com/your-github-username"
 	}
+}
+```
+
+Also you can add multiple creators:
+
+```json
+{
+	"creators": [
+		{
+			"title": "First",
+			"link": "https://github.com/your-github-username"
+		},
+		{
+			"title": "Second",
+			"link": "https://github.com/your-github-username"
+		},
+	]
 }
 ```
 
@@ -83,3 +101,6 @@ Also if you don't add `courses.md` and `books.md` file in your pull request, don
 ### TODO
 If you haven't any idea for contributing, but you want to contribute, you can See [TODO file](/TODO.md) and [Github Issues](https://github.com/BlackIQ/Hello-World/issues). This will help you to file a task to do.
 
+### Contributors list
+See list of the contributors [Here](/CONTRIBUTORS_LIST.md) or in
+[Github contributors list](https://github.com/BlackIQ/Hello-World/graphs/contributors).
